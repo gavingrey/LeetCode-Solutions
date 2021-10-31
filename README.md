@@ -35,4 +35,6 @@ Scores Posted Below:
 - Problem 15
     - Runtime Faster Than 31.76%
     - Memory Less Than 9.95%
-- Fourth item
+- Problem 16
+    - Runtime Faster Than 90.33%
+    - Memory Less Than 11.33%
