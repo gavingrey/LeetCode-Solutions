@@ -38,9 +38,18 @@ Scores Posted Below:
 - 12 - Integer to Roman
     - Runtime Faster Than 80.70%
     - Memory Less Than 27.80%
+- 13 - Roman to Integer
+    - Runtime Faster Than 75.89%
+    - Memory Less Than 27.40%
+- 14 - Longest Common Prefix
+    - Runtime Faster Than 95.59%
+    - Memory Less Than 81.53%
 - 15 - 3Sum
     - Runtime Faster Than 31.76%
     - Memory Less Than 9.95%
 - 16 - 3Sum Closest
     - Runtime Faster Than 90.33%
     - Memory Less Than 11.33%
+- 17 - Letter Combinations of a Phone Number
+    - Runtime Faster Than 99.95%
+    - Memory Less Than 5.15%
