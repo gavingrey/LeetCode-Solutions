@@ -56,3 +56,6 @@ Scores Posted Below:
 - 18 - 4Sum
     - Runtime Faster Than 40.49%
     - Memory Less Than 54.26%
+- 19 - Remove Nth Node From End of List
+    - Runtime Faster Than 98.86%
+    - Memory Less Than 48.49%
