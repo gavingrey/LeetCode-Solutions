@@ -2,45 +2,45 @@
 All of the solutions will be in Python 3
 Scores Posted Below:
 
-- Problem 1
+- 1 - Two Sum
     - Runtime Faster Than 60.54%
     - Memory Less Than 55.50%
-- Problem 2
+- 2 - Add Two Numbers
     - Runtime Faster Than 99.36%
     - Memory Less Than 44.55%
-- Problem 3
+- 3 - Longest Substring Without Repeating Characters
     - Runtime Faster Than 21.92%
     - Memory Less Than 24.82%
-- Problem 4
+- 4 - Median of Two Sorted Arrays
     - Runtime Faster Than 95.91%
     - Memory Less Than 23.35%
-- Problem 5
+- 5 - Longest Palindromic Substring
     - Runtime Faster Than 93.82%
     - Memory Less Than 16.92%
-- Problem 6
+- 6 - Zigzag Conversion
     - Runtime Faster Than 5.01%
     - Memory Less Than 46.06%
-- Problem 7
+- 7 - Reverse Integer
     - Runtime Faster Than 92.33%
     - Memory Less Than 72.71%
-- Problem 8
+- 8 - String to Integer (atoi)
     - Runtime Faster Than 10.29%
     - Memory Less Than 94.04%
-- Problem 9
+- 9 - Palindrome Number
     - Runtime Faster Than 96.95%
     - Memory Less Than 49.91%
-- Problem 10
+- 10 - Regular Expression Matching
     - Runtime Faster Than 16.06%
     - Memory Less Than 59.24%
-- Problem 11
+- 11 - Container With Most Water
     - Runtime Faster Than 97.47%
     - Memory Less Than 99.62%
-- Problem 12
+- 12 - Integer to Roman
     - Runtime Faster Than 80.70%
     - Memory Less Than 27.80%
-- Problem 15
+- 15 - 3Sum
     - Runtime Faster Than 31.76%
     - Memory Less Than 9.95%
-- Problem 16
+- 16 - 3Sum Closest
     - Runtime Faster Than 90.33%
     - Memory Less Than 11.33%
