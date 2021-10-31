@@ -59,3 +59,6 @@ Scores Posted Below:
 - 19 - Remove Nth Node From End of List
     - Runtime Faster Than 98.86%
     - Memory Less Than 48.49%
+- 20 - Valid Parenthesis
+    - Runtime Faster Than 74.40%
+    - Memory Less Than 64.47%
