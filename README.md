@@ -53,3 +53,6 @@ Scores Posted Below:
 - 17 - Letter Combinations of a Phone Number
     - Runtime Faster Than 99.95%
     - Memory Less Than 5.15%
+- 18 - 4Sum
+    - Runtime Faster Than 40.49%
+    - Memory Less Than 54.26%
