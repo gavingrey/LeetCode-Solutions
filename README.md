@@ -62,3 +62,6 @@ Scores Posted Below:
 - 20 - Valid Parenthesis
     - Runtime Faster Than 74.40%
     - Memory Less Than 64.47%
+- 21 - Merge Two Sorted Lists
+    - Runtime Faster Than 98.68%
+    - Memory Less Than 31.58%
