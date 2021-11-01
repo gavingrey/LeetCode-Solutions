@@ -65,3 +65,6 @@ Scores Posted Below:
 - 21 - Merge Two Sorted Lists
     - Runtime Faster Than 98.68%
     - Memory Less Than 31.58%
+- 22 - Generate Parentheses
+    - Runtime Faster Than 90.10%%
+    - Memory Less Than 40.11%
